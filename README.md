@@ -1,8 +1,6 @@
-# Introduction
+This repository is for https://docs.fluentd.org/ by gitbook.
 
-![](.gitbook/assets/logo_documentation_1.0.png)
+Here are two branches:
 
-[Fluentd](https://www.fluentd.org/) is an open-source data collector for a unified logging layer. Fluentd allows you to unify data collection and consumption for better use and understanding of data.
-
-[Fluentd](https://www.fluentd.org/) is licensed under the terms of the [Apache License v2.0](http://www.apache.org/licenses/LICENSE-2.0). This project is made and sponsored by [Treasure Data](https://www.treasuredata.com).
-
+- 1.0: For fluentd v1 document: https://github.com/fluent/fluentd-docs-gitbook/tree/1.0 | https://docs.fluentd.org/v/1.0/
+- 0.12: For old fluentd v0.12 document: https://github.com/fluent/fluentd-docs-gitbook/tree/0.12 | https://docs.fluentd.org/v/0.12/
